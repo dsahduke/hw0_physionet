@@ -20,7 +20,7 @@ MIMIC-III (‘Medical Information Mart for Intensive Care’), according to [the
 
 ## How to get access: (Your homework)
 
-Follow the instructions located [**HERE**](https://mimic.physionet.org/gettingstarted/access/). If you have a question regarding this step, please don't hestitate to email us.
+Follow the instructions located [**HERE**](https://mimic.physionet.org/gettingstarted/access/). If you have a question regarding this step, please don't hestitate to email us. For your username, please use yourNetID@duke.edu, e.g. myg3@duke.edu
 
 **PLEASE** make sure that you follow the steps located above as closely as possible. Here are things to watch out for when submitting your application:
 
@@ -45,7 +45,7 @@ For the supervisor information portion of the Physionet application, please use 
 
 ## Submission through Sakai
 
-After you complete the above steps, you should upload your pdf file of the CITI completion form to Sakai under the assignments tab (HW0) to receive credit for this homework. Note that this is **NOT** a replacement for submitting the physionet application. This is merely a way for us to verify that students have completed this assignment on time.
+After you complete the above steps, you should upload your pdf file of the CITI completion form to Sakai under the assignments tab (HW0) to receive credit for this homework. Note that this is **NOT** a replacement for submitting the physionet application. You must still submit the physionet application in order to receive access to the MIMIC database. This step is merely a way for us to verify that students have completed this assignment on time.
 
 #### References
 MIMIC-III, a freely accessible critical care database. Johnson AEW, Pollard TJ, Shen L, Lehman L, Feng M, Ghassemi M, Moody B, Szolovits P, Celi LA, and Mark RG. Scientific Data (2016). DOI: 10.1038/sdata.2016.35. Available from: http://www.nature.com/articles/sdata201635
